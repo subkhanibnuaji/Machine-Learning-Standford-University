@@ -1,2 +1,2 @@
-# Machine-Learning-Coursera-by-Standford-University
+# Machine-Learning-Coursera-Standford-University
 By Andrew Y. Ng, Founder of deeplearning.ai
